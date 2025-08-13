@@ -1,0 +1,1 @@
+This project was created to cross-compile the mnist_cnn_interface message package and ps_receive_node using the devtool tool in the petalinux2022.2 tool on Ubuntu 18.04!
